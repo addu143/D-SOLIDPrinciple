@@ -1,7 +1,5 @@
 # D-SOLIDPrinciple
 
-# I-SOLIDPrinciple
-
 In this project, I have demonsrated the Dependency Injection Principle of SOLID principles.
 
 There are two approaches
