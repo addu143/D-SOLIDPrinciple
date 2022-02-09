@@ -1,0 +1,12 @@
+D:\projects\GitHub\SOLID-Principle\D-SOLIDPrinciple\D-SOLIDPrinciple\WithDIP\bin\Debug\net5.0\WithDIP.deps.json
+D:\projects\GitHub\SOLID-Principle\D-SOLIDPrinciple\D-SOLIDPrinciple\WithDIP\bin\Debug\net5.0\WithDIP.dll
+D:\projects\GitHub\SOLID-Principle\D-SOLIDPrinciple\D-SOLIDPrinciple\WithDIP\bin\Debug\net5.0\ref\WithDIP.dll
+D:\projects\GitHub\SOLID-Principle\D-SOLIDPrinciple\D-SOLIDPrinciple\WithDIP\bin\Debug\net5.0\WithDIP.pdb
+D:\projects\GitHub\SOLID-Principle\D-SOLIDPrinciple\D-SOLIDPrinciple\WithDIP\obj\Debug\net5.0\WithDIP.csproj.AssemblyReference.cache
+D:\projects\GitHub\SOLID-Principle\D-SOLIDPrinciple\D-SOLIDPrinciple\WithDIP\obj\Debug\net5.0\WithDIP.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\GitHub\SOLID-Principle\D-SOLIDPrinciple\D-SOLIDPrinciple\WithDIP\obj\Debug\net5.0\WithDIP.AssemblyInfoInputs.cache
+D:\projects\GitHub\SOLID-Principle\D-SOLIDPrinciple\D-SOLIDPrinciple\WithDIP\obj\Debug\net5.0\WithDIP.AssemblyInfo.cs
+D:\projects\GitHub\SOLID-Principle\D-SOLIDPrinciple\D-SOLIDPrinciple\WithDIP\obj\Debug\net5.0\WithDIP.csproj.CoreCompileInputs.cache
+D:\projects\GitHub\SOLID-Principle\D-SOLIDPrinciple\D-SOLIDPrinciple\WithDIP\obj\Debug\net5.0\WithDIP.dll
+D:\projects\GitHub\SOLID-Principle\D-SOLIDPrinciple\D-SOLIDPrinciple\WithDIP\obj\Debug\net5.0\ref\WithDIP.dll
+D:\projects\GitHub\SOLID-Principle\D-SOLIDPrinciple\D-SOLIDPrinciple\WithDIP\obj\Debug\net5.0\WithDIP.pdb

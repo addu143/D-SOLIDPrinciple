@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f3a1d8f5-fba2-4a9f-aacf-e491d4d8c676": {
+      "ProjectGuid": "f3a1d8f5-fba2-4a9f-aacf-e491d4d8c676",
+      "DisplayName": "D-SOLIDPrinciple",
+      "ColorIndex": 0
+    },
+    "bde58f1a-ebcb-47e2-a26a-9c3c1442ff45": {
+      "ProjectGuid": "bde58f1a-ebcb-47e2-a26a-9c3c1442ff45",
+      "DisplayName": "WithoutDIP",
+      "ColorIndex": 1
+    },
+    "3ec6db96-67c1-4a22-b059-fbe775822060": {
+      "ProjectGuid": "3ec6db96-67c1-4a22-b059-fbe775822060",
+      "DisplayName": "WithDIP",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

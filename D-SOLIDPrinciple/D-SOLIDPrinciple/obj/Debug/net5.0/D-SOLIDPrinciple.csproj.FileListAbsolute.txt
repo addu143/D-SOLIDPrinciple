@@ -1,0 +1,16 @@
+D:\projects\GitHub\SOLID-Principle\D-SOLIDPrinciple\D-SOLIDPrinciple\D-SOLIDPrinciple\bin\Debug\net5.0\D-SOLIDPrinciple.exe
+D:\projects\GitHub\SOLID-Principle\D-SOLIDPrinciple\D-SOLIDPrinciple\D-SOLIDPrinciple\bin\Debug\net5.0\D-SOLIDPrinciple.deps.json
+D:\projects\GitHub\SOLID-Principle\D-SOLIDPrinciple\D-SOLIDPrinciple\D-SOLIDPrinciple\bin\Debug\net5.0\D-SOLIDPrinciple.runtimeconfig.json
+D:\projects\GitHub\SOLID-Principle\D-SOLIDPrinciple\D-SOLIDPrinciple\D-SOLIDPrinciple\bin\Debug\net5.0\D-SOLIDPrinciple.runtimeconfig.dev.json
+D:\projects\GitHub\SOLID-Principle\D-SOLIDPrinciple\D-SOLIDPrinciple\D-SOLIDPrinciple\bin\Debug\net5.0\D-SOLIDPrinciple.dll
+D:\projects\GitHub\SOLID-Principle\D-SOLIDPrinciple\D-SOLIDPrinciple\D-SOLIDPrinciple\bin\Debug\net5.0\ref\D-SOLIDPrinciple.dll
+D:\projects\GitHub\SOLID-Principle\D-SOLIDPrinciple\D-SOLIDPrinciple\D-SOLIDPrinciple\bin\Debug\net5.0\D-SOLIDPrinciple.pdb
+D:\projects\GitHub\SOLID-Principle\D-SOLIDPrinciple\D-SOLIDPrinciple\D-SOLIDPrinciple\obj\Debug\net5.0\D-SOLIDPrinciple.csproj.AssemblyReference.cache
+D:\projects\GitHub\SOLID-Principle\D-SOLIDPrinciple\D-SOLIDPrinciple\D-SOLIDPrinciple\obj\Debug\net5.0\D-SOLIDPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\GitHub\SOLID-Principle\D-SOLIDPrinciple\D-SOLIDPrinciple\D-SOLIDPrinciple\obj\Debug\net5.0\D-SOLIDPrinciple.AssemblyInfoInputs.cache
+D:\projects\GitHub\SOLID-Principle\D-SOLIDPrinciple\D-SOLIDPrinciple\D-SOLIDPrinciple\obj\Debug\net5.0\D-SOLIDPrinciple.AssemblyInfo.cs
+D:\projects\GitHub\SOLID-Principle\D-SOLIDPrinciple\D-SOLIDPrinciple\D-SOLIDPrinciple\obj\Debug\net5.0\D-SOLIDPrinciple.csproj.CoreCompileInputs.cache
+D:\projects\GitHub\SOLID-Principle\D-SOLIDPrinciple\D-SOLIDPrinciple\D-SOLIDPrinciple\obj\Debug\net5.0\D-SOLIDPrinciple.dll
+D:\projects\GitHub\SOLID-Principle\D-SOLIDPrinciple\D-SOLIDPrinciple\D-SOLIDPrinciple\obj\Debug\net5.0\ref\D-SOLIDPrinciple.dll
+D:\projects\GitHub\SOLID-Principle\D-SOLIDPrinciple\D-SOLIDPrinciple\D-SOLIDPrinciple\obj\Debug\net5.0\D-SOLIDPrinciple.pdb
+D:\projects\GitHub\SOLID-Principle\D-SOLIDPrinciple\D-SOLIDPrinciple\D-SOLIDPrinciple\obj\Debug\net5.0\D-SOLIDPrinciple.genruntimeconfig.cache
